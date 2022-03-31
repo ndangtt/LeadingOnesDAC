@@ -1,4 +1,4 @@
-This repo is for the paper: **Theory-inspired Parameter Control Benchmarks for Dynamic Algorithm Configuration**
+André Biedenkapp, Nguyen Dang, Martin S. Krejca, Frank Hutter, Carola Doerr (2022) **Theory-inspired Parameter Control Benchmarks for Dynamic Algorithm Configuration** ([arxiv](https://arxiv.org/abs/2202.03259), accepted at [GECCO2022](https://gecco-2022.sigevo.org/HomePage))
 
 The DAC environment is based on the Dynamic Algorithm Configuration benchmark library [DACBench](https://github.com/automl/DACBench).
 
