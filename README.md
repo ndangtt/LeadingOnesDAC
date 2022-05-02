@@ -2,6 +2,17 @@
 
 André Biedenkapp, Nguyen Dang, Martin S. Krejca, Frank Hutter, Carola Doerr (2022) **Theory-inspired Parameter Control Benchmarks for Dynamic Algorithm Configuration** ([arxiv](https://arxiv.org/abs/2202.03259), accepted at [GECCO2022](https://gecco-2022.sigevo.org/HomePage))
 
+If you use this benchmark, please cite us:
+```
+@article{biedenkapp2022theory,
+  title={Theory-inspired Parameter Control Benchmarks for Dynamic Algorithm Configuration},
+  author={Biedenkapp, Andr{\'e} and Dang, Nguyen and Krejca, Martin S and Hutter, Frank and Doerr, Carola},
+  journal={arXiv preprint arXiv:2202.03259},
+  year={2022},
+  doi={https://doi.org/10.48550/arXiv.2202.03259}
+}
+```
+
 The DAC environment is based on the Dynamic Algorithm Configuration benchmark library [DACBench](https://github.com/automl/DACBench).
 
 For computing the optimal DAC policy for RLS (Randomized Local Search) on LeadingOne problem, please check the instructions in `rls_lo/optimal_policy/README.md`.
